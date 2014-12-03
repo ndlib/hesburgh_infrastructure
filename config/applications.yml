@@ -1,0 +1,43 @@
+assets:
+  port_offset: 1
+  rails_root: "server"
+staff_directory:
+  port_offset: 2
+factotum:
+  port_offset: 3
+kiosk:
+  port_offset: 4
+api:
+  port_offset: 5
+ejournal_locator:
+  port_offset: 6
+griffin:
+  port_offset: 7
+hesbar:
+  port_offset: 8
+biographies:
+  port_offset: 9
+architecture_drawings:
+  port_offset: 10
+reserves:
+  port_offset: 11
+tedx:
+  port_offset: 12
+siphon:
+  port_offset: 13
+  rails_root: "server"
+hesburgh_api:
+  port_offset: 14
+  rails_root: "server"
+fresh_writing:
+  port_offset: 15
+discover:
+  port_offset: 16
+item_admin:
+  port_offset: 17
+exhibit_admin:
+  port_offset: 18
+habanero:
+  port_offset: 19
+honeypot:
+  port_offset: 20

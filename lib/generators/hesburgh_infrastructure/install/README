@@ -1,0 +1,5 @@
+***** Hesburgh Infrastructure Installation Complete! *****
+Capistrano, Rspec + Spork, and Guard have been installed.  To complete the installation you must edit the following files and replace "myapplication" with the name of your application:
+
+./config/deploy.rb
+./Guardfile
