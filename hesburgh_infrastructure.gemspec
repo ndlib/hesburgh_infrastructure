@@ -18,5 +18,4 @@ Gem::Specification.new do |s|
   s.files = Dir["{app,config,db,lib}/**/*"] + ["LICENSE.txt", "Rakefile", "README.md"]
 
   s.add_dependency "rails"
-  s.add_dependency "capistrano", "~> 2.15.0"
 end

@@ -21,6 +21,12 @@ DESC
         copy_file "Capfile"
         template "config/deploy.rb.tt"
       end
+
+      def add_gems
+        gem_group :development, :test do
+          gem 'capistrano', '~> 2.15.0'
+        end
+      end
     end
   end
 end
