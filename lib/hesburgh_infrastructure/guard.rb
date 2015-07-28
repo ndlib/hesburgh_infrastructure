@@ -36,6 +36,11 @@ module HesburghInfrastructure
       end
     end
 
+    def npm(options ={})
+      guard 'npm' do
+        watch('package.json')
+      end
+    end
     def rails(options = {})
       options = {
         port: application.rails_port,
