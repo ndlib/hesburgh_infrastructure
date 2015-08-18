@@ -37,9 +37,9 @@ item_admin:
   port_offset: 17
 exhibit_admin:
   port_offset: 18
-habanero:
-  port_offset: 19
 honeypot:
+  port_offset: 19
+habanero:
   port_offset: 20
 annex_ims:
   port_offset: 21
