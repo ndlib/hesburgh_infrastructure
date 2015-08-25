@@ -43,3 +43,5 @@ habanero:
   port_offset: 20
 annex_ims:
   port_offset: 21
+mobile:
+  port_offset: 22
