@@ -45,3 +45,5 @@ annex_ims:
   port_offset: 21
 mobile:
   port_offset: 22
+buzz:
+  port_offset: 23
