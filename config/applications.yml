@@ -1,8 +1,6 @@
 assets:
   port_offset: 1
   rails_root: "server"
-staff_directory:
-  port_offset: 2
 factotum:
   port_offset: 3
 kiosk:
@@ -11,10 +9,6 @@ api:
   port_offset: 5
 ejournal_locator:
   port_offset: 6
-griffin:
-  port_offset: 7
-hesbar:
-  port_offset: 8
 biographies:
   port_offset: 9
 architecture_drawings:
@@ -33,13 +27,13 @@ fresh_writing:
   port_offset: 15
 discover:
   port_offset: 16
-item_admin:
+honeycomb:
   port_offset: 17
-exhibit_admin:
+beehive:
   port_offset: 18
 honeypot:
   port_offset: 19
-habanero:
+zucchetto:
   port_offset: 20
 annex_ims:
   port_offset: 21
