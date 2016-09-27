@@ -19,7 +19,6 @@ tedx:
   port_offset: 12
 siphon:
   port_offset: 13
-  rails_root: "server"
 hesburgh_api:
   port_offset: 14
   rails_root: "server"
@@ -41,5 +40,3 @@ mobile:
   port_offset: 22
 buzz:
   port_offset: 23
-siphon:
-  port_offset: 24
